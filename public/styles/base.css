@@ -3,5 +3,10 @@
 }
 
 body {
-  background-color: aquamarine;
+  background-color: black;
+  color: white;
+}
+
+fieldset { 
+  display: block;
 }
