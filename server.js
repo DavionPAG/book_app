@@ -24,7 +24,9 @@ app.get('/', (req, res) => res.status(200).send('Hello Folks'));
 
 app.get('/hello', (req, res) => res.render('pages/index'));
 
+app.get('/new', (req, res) => res.render('searches/new'));
 
-app.get('*', (req, res) => res.status(404).send('Not found'));
+
+app.get('*', (req, res) => res.status(404).json('Not found'));
 
 app.listen(PORT, () => console.log(`Port => ${PORT}`));
