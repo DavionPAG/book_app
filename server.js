@@ -24,8 +24,15 @@ app.get('/', (req, res) => res.status(200).send('Hello Folks'));
 
 app.get('/hello', (req, res) => res.render('pages/index'));
 
-app.get('/new', (req, res) => res.render('searches/new'));
 
+
+
+const googleApi = ((req, res) => {
+  console.log(req.query);
+  res.render('searches/new');
+});
+
+app.get('/new', googleApi);
 
 app.get('*', (req, res) => res.status(404).json('Not found'));
 
