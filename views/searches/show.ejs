@@ -3,16 +3,28 @@
 <head>
   
   <title>Search Results</title>
+  <link href="https://fonts.googleapis.com/css2?family=Helevectiva:wght@200&display=swap" rel="stylesheet">
+  <link href="/styles/reset.css" rel="stylesheet">
+  <link href="/styles/base.css" rel="stylesheet">
+  <link href="/styles/layout.css" rel="stylesheet">
+  <link href="/styles/modules.css" rel="stylesheet">
 </head>
+
 <body>
-  <section>
+  <header id="best">Best Books!</header>
+  <h1 id="bar">Search Results</h1>
+  
     <% books.forEach(book => { %>
+      <div class="selection-container">
+        <div class="image-container">
     <img src="<%= book.img_url %>" alt="">
-    <p><%= book.title %></p>
-    <p><%= book.authors %></p>
-    <article><%= book.desc %></article>
+  </div>
+    <p class ="title"><%= book.title %></p>
+    <p class ="author"><%= book.authors %></p>
+    <article class="description"><%= book.desc %></article>
+  </div>
   <% }) %>
-  </section>
+
   
 </body>
 </html>

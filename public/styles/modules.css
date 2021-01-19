@@ -1,0 +1,78 @@
+body {
+  background-color: #bbbbbb;
+}
+
+.bar {
+  background-color: #888888;
+  color: white;
+  text-align:center;
+  padding: 8px;
+  font-size: 16px; 
+}
+
+#best {
+background-color: black;
+color:white;
+font-size: 24px;
+padding: 16px;
+}
+
+.results-container {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: column;
+  margin: 28px;
+  padding: 32px;;
+  border: solid 2px #888888;
+  border-radius: 2px;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.title {
+  text-align:center;
+  font-size: 32px;
+  margin: 18px;
+}
+
+.author {
+  font-size: 20px;
+  color: #424141;
+  text-decoration: italic;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.images {
+  width: 60%;
+}
+
+.selection-container {
+  background-color: black;
+  font-size: 15px;
+  color: white;
+  text-decoration: italic;
+  text-align: center;
+}
+
+.search-button {
+  background-color: white;
+  font-size: 15px;
+  color: black;
+  text-decoration: italic;
+  text-align: center;
+}
+.book-api-container {
+  background-color: rgb(211, 207, 207);
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+  padding: 32px;;
+  border: solid 2px #888888;
+  border-radius: 2px;
+}
+.title {
+  align-items: center;
+}
