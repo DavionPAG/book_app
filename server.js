@@ -14,11 +14,9 @@ app.use(express.static('./public'));
 app.use(express.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
 
-app.get('/', (req, res) => res.status(200).send('Hello Folks'));
-app.get('/hello', (req, res) => res.render('pages/index'));
+app.get('/', (req, res) => res.status(200).render('pages/index'));
 app.get('/new', (req, res) => res.render('searches/new'));
 app.post('/show', searchHandler);
-
 
 function searchHandler(req, res) {
   let key = process.env.GOOGLE_API_KEY;
@@ -29,7 +27,6 @@ function searchHandler(req, res) {
   if (req.body.select[1] === 'title') {
     url += 'intitle:' + req.body.select[0] + '&maxResults=10';
   }
-
   else if (req.body.select[1] === 'author') {
     url += 'inauthor:' + req.body.select[0] + '&maxResults=10';
   }
@@ -45,7 +42,7 @@ function searchHandler(req, res) {
       res.render('searches/show', { books: bookArr });
     })
     .catch(error => {
-      res.status(500).send('Muchas problemas');
+      res.status(500).render('pages/error');
       console.log(error);
     });
 
