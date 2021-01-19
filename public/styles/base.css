@@ -3,10 +3,12 @@
 }
 
 body {
-  background-color: black;
-  color: white;
+  
+  font-family: 'Helevectiva', sans-serif;
 }
 
-fieldset { 
-  display: block;
+
+body, html {
+  margin: 0 auto;
+  padding: 0;
 }
