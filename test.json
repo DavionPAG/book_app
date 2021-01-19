@@ -1,0 +1,811 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 21,
+  "items": [
+      {
+          "kind": "books#volume",
+          "id": "7GQLBAAAQBAJ",
+          "etag": "EY2d6CXCB50",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/7GQLBAAAQBAJ",
+          "volumeInfo": {
+              "title": "Design of Biomedical Devices and Systems, Third Edition",
+              "authors": [
+                  "Paul H. King",
+                  "Richard C. Fries",
+                  "Arthur T. Johnson"
+              ],
+              "publisher": "CRC Press",
+              "publishedDate": "2014-07-29",
+              "description": "Apply a Wide Variety of Design Processes to a Wide Category of Design Problems Design of Biomedical Devices and Systems, Third Edition continues to provide a real-world approach to the design of biomedical engineering devices and/or systems. Bringing together information on the design and initiation of design projects from several sources, this edition strongly emphasizes and further clarifies the standards of design procedure. Following the best practices for conducting and completing a design project, it outlines the various steps in the design process in a basic, flexible, and logical order. What’s New in the Third Edition: This latest edition contains a new chapter on biological engineering design, a new chapter on the FDA regulations for items other than devices such as drugs, new end-of-chapter problems, new case studies, and a chapter on product development. It adds mathematical modeling tools, and provides new information on FDA regulations and standards, as well as clinical trials and sterilization methods. Familiarizes the reader with medical devices, and their design, regulation, and use Considers safety aspects of the devices Contains an enhanced pedagogy Provides an overview of basic design issues Design of Biomedical Devices and Systems, Third Edition covers the design of biomedical engineering devices and/or systems, and is designed to support bioengineering and biomedical engineering students and novice engineers entering the medical device market.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781466569133"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1466569131"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 515,
+              "printType": "BOOK",
+              "categories": [
+                  "Medical"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=7GQLBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=7GQLBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=7GQLBAAAQBAJ&pg=PA9&dq=inauthorking&hl=&cd=1&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=7GQLBAAAQBAJ&dq=inauthorking&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Design_of_Biomedical_Devices_and_Systems.html?hl=&id=7GQLBAAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=7GQLBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "<b>In author King&#39;s</b> classroom, the lecture begins with students being able to handle <br>\nthe following: (1) a manifold used in cardiac catheterizations (photograph, Figure <br>\n1.4), (2) one or more 1 L saline (or similar)–filled infusion bags, and (3) an&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "8zX3DwAAQBAJ",
+          "etag": "y3DY6a6jvoI",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/8zX3DwAAQBAJ",
+          "volumeInfo": {
+              "title": "Design of Biomedical Devices and Systems, 4th edition",
+              "authors": [
+                  "Paul H. King",
+                  "Richard C. Fries",
+                  "Arthur T. Johnson"
+              ],
+              "publisher": "CRC Press",
+              "publishedDate": "2018-10-03",
+              "description": "This fourth edition is a substantial revision of a highly regarded text, intended for senior design capstone courses within departments of biomedical engineering, bioengineering, biological engineering and medical engineering, worldwide. Each chapter has been thoroughly updated and revised to reflect the latest developments. New material has been added on entrepreneurship, bioengineering design, clinical trials and CRISPR. Based upon feedback from prior users and reviews, additional and new examples and applications, such as 3D printing have been added to the text. Additional clinical applications were added to enhance the overall relevance of the material presented. Relevant FDA regulations and how they impact the designer’s work have been updated. Features Provides updated material as needed to each chapter Incorporates new examples and applications within each chapter Discusses new material related to entrepreneurship, clinical trials and CRISPR Relates critical new information pertaining to FDA regulations. Presents new material on \"discovery\" of projects \"worth pursuing\" and design for health care for low-resource environments Presents multiple case examples of entrepreneurship in this field Addresses multiple safety and ethical concerns for the design of medical devices and processes",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780429786068"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0429786069"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 508,
+              "printType": "BOOK",
+              "categories": [
+                  "Medical"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=8zX3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=8zX3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=8zX3DwAAQBAJ&pg=PA8&dq=inauthorking&hl=&cd=2&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=8zX3DwAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8zX3DwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 160,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 128,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=8zX3DwAAQBAJ&rdid=book-8zX3DwAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 160000000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 128000000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Design_of_Biomedical_Devices_and_Systems-sample-pdf.acsm?id=8zX3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=8zX3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "<b>In author King&#39;s</b> classroom, the lecture begins with students being able to handle <br>\n(1) a manifold used in cardiac catheterizations (photograph, Figure 1.4), (2) one <br>\nor more 1 L saline- (or similar) filled infusion bags, and (3) an opaque latex&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "R767AAAAIAAJ",
+          "etag": "qliJkVqbeT4",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/R767AAAAIAAJ",
+          "volumeInfo": {
+              "title": "HIV Disease",
+              "subtitle": "Lesbians, Gays, and the Social Services",
+              "authors": [
+                  "Gary A. Lloyd",
+                  "Mary Ann Kuszelewicz"
+              ],
+              "publisher": "Routledge",
+              "publishedDate": "1995",
+              "description": "HIV Disease: Lesbians, Gays, and the Social Services highlights the inherent strengths and tensions of the gay and lesbian community, creating a mosaic of issues to be considered as the response to HIV/AIDS matures. The book represents the diversity of the gay and lesbian community and discusses the myriad responses of lesbians and gay men to the personal and social impact of HIV disease.",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "STANFORD:36105111307380"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 194,
+              "printType": "BOOK",
+              "categories": [
+                  "Health & Fitness"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.1.0.preview.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=R767AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=R767AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=R767AAAAIAAJ&q=inauthorking&dq=inauthorking&hl=&cd=3&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=R767AAAAIAAJ&dq=inauthorking&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/HIV_Disease.html?hl=&id=R767AAAAIAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=R767AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Indianapolis , <b>IN : Author . King</b> , D.K. ( 1990 ) . Multiple jeopardy , multiple <br>\nconsciousness . In M.R. Malson , E. Mudimbe - Boyi , J.F. O&#39;Barr , &amp; M. Wyer ( Eds <br>\n. ) , Black women in America ( pp . 265-295 ) . Chicago : University of Chicago <br>\nPress ."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "Pp4pdT69TcQC",
+          "etag": "zj0+XfGTIyk",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/Pp4pdT69TcQC",
+          "volumeInfo": {
+              "title": "The Handicrafts and Industrial Arts of India",
+              "subtitle": "A Pictorial and Descriptive Survey of Indian Craftsmanship as Seen in Masterpieces ...",
+              "authors": [
+                  "Rustam Jehangir Mehta"
+              ],
+              "publishedDate": "1960",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "MINN:31951001731802X"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 157,
+              "printType": "BOOK",
+              "categories": [
+                  "Decorative arts"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.1.1.0.preview.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=Pp4pdT69TcQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=Pp4pdT69TcQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=Pp4pdT69TcQC&q=inauthorking&dq=inauthorking&hl=&cd=4&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=Pp4pdT69TcQC&dq=inauthorking&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/The_Handicrafts_and_Industrial_Arts_of_I.html?hl=&id=Pp4pdT69TcQC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=Pp4pdT69TcQC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "One of the striking ivory dating from the 1st to the 5th century A . D . , its royal <br>\npanels produced in South India has found a place <b>in author King</b> Sudraka <br>\nmentions the “ high ivory portal ” the National Museum at Florence . of a <br>\ncourtesan &#39; s&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "HHvvAAAAIAAJ",
+          "etag": "DQMyw6aymfY",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/HHvvAAAAIAAJ",
+          "volumeInfo": {
+              "title": "Water Policy",
+              "subtitle": "Official Journal of the World Water Council",
+              "publishedDate": "2006",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "STANFORD:36105122659779"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "printType": "BOOK",
+              "categories": [
+                  "Water resources development"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.1.0.preview.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=HHvvAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=HHvvAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=HHvvAAAAIAAJ&q=inauthorking&dq=inauthorking&hl=&cd=5&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=HHvvAAAAIAAJ&dq=inauthorking&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Water_Policy.html?hl=&id=HHvvAAAAIAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=HHvvAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Presentation given at First Workshop on HydroHegemony , 21 / 22 May 2005 , <br>\nKing &#39; s College London , London , UK , London Water Research Group . C . ( eds <br>\n) . . y <b>In Author King</b> &#39; s Collse Law in Takele , B . G . ( 2004 ) . 458 M . Zeitoun and<br>\n&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "VjHMDwAAQBAJ",
+          "etag": "A4LCvF5wXGg",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/VjHMDwAAQBAJ",
+          "volumeInfo": {
+              "title": "The Moonlit World",
+              "authors": [
+                  "Edward Willett"
+              ],
+              "publisher": "Penguin",
+              "publishedDate": "2020-09-15",
+              "description": "The third book in the Worldshaper portal fantasy series by an Aurora Award-winning author, in which one woman's powers open the way to a labyrinth of new dimensions. Fresh from their adventures in a world inspired by Jules Verne, Shawna Keys and Karl Yatsar find themselves in a world that mirrors much darker tales. Beneath a full moon that hangs motionless in the sky, they’re forced to flee terrifying creatures that can only be vampires…only to run straight into a pack of werewolves. As the lycanthropes and undead battle, Karl is spirited away to the castle of the vampire queen. Meanwhile, Shawna finds short-lived refuge in a fortified village, where she learns that something has gone horribly wrong with the world in which she finds herself. Once, werewolves, vampires, and humans lived there harmoniously. Now every group is set against every other, and entire villages are being mysteriously emptied of people. Somehow, Karl and Shawna must reunite, discover the mysteries of the Shaping of this strange world, and escape it for the next, without being sucked dry, devoured, or—worst of all—turned into creatures of the night themselves. Beneath the frozen, gibbous moon, allies, enemies, surprises, adventures, and unsettling revelations await.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780756417154"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0756417155"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "pageCount": 384,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.1.1.0.preview.2",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=VjHMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=VjHMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=VjHMDwAAQBAJ&printsec=frontcover&dq=inauthorking&hl=&cd=6&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=VjHMDwAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VjHMDwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 11.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 11.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=VjHMDwAAQBAJ&rdid=book-VjHMDwAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 11990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 11990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/The_Moonlit_World-sample-epub.acsm?id=VjHMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=VjHMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The third book in the Worldshaper portal fantasy series by an Aurora Award-winning author, in which one woman&#39;s powers open the way to a labyrinth of new dimensions."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "N88uxAEACAAJ",
+          "etag": "kTnhRCT2Bbg",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/N88uxAEACAAJ",
+          "volumeInfo": {
+              "title": "Made to Be Broken",
+              "authors": [
+                  "Hugh Fritz"
+              ],
+              "publishedDate": "2019-05",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1948749432"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781948749435"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=N88uxAEACAAJ&dq=inauthorking&hl=&cd=7&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=N88uxAEACAAJ&dq=inauthorking&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Made_to_Be_Broken.html?hl=&id=N88uxAEACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=N88uxAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Flarence knows that Genies are supposed to help their masters by granting wishes, but he&#39;s never been comfortable taking orders."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "HQCPDwAAQBAJ",
+          "etag": "jWjChKWsUws",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/HQCPDwAAQBAJ",
+          "volumeInfo": {
+              "title": "Net Force: Dark Web",
+              "authors": [
+                  "Jerome Preisler",
+                  "Steve Pieczenik",
+                  "Tom Clancy"
+              ],
+              "publisher": "Harlequin",
+              "publishedDate": "2019-11-26",
+              "description": "NOW A NATIONAL BESTSELLER The return of the cutting-edge thriller series Net Force, created by Tom Clancy and Steve Pieczenik and written by Jerome Preisler. The number one threat to our nation’s security is in cyberspace. The new US president wants to tackle the urgent problem head-on and launches a top secret line of defense: Net Force. But before the organization can be announced, the country is hit by an unprecedented, two-pronged terror attack. Not yet empowered by Congress nor embraced by a dubious intelligence community, still untested, unproven and officially unnamed, Net Force’s elite group of cyber experts and field operatives must lead the fight against the ongoing waves of hacks while tracking down the mastermind. Their failure could mean global catastrophe. Success may lead them to become the highest-level security agency in the United States. A story that seems ripped from tomorrow’s headlines, Net Force: Dark Web relaunches one of the most prescient thriller series at a time when cybersecurity is more vital than ever.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781488054099"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1488054096"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "pageCount": 543,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "averageRating": 3,
+              "ratingsCount": 1,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "1.5.4.0.preview.2",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=HQCPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=HQCPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=HQCPDwAAQBAJ&printsec=frontcover&dq=inauthorking&hl=&cd=8&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=HQCPDwAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HQCPDwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 7.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 7.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=HQCPDwAAQBAJ&rdid=book-HQCPDwAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 7990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 7990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Net_Force_Dark_Web-sample-epub.acsm?id=HQCPDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=HQCPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "A story that seems ripped from tomorrow’s headlines, Net Force: Dark Web relaunches one of the most prescient thriller series at a time when cybersecurity is more vital than ever."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "wQWsDwAAQBAJ",
+          "etag": "2EaZBxZ95Wo",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/wQWsDwAAQBAJ",
+          "volumeInfo": {
+              "title": "Net Force: Eye of the Drone",
+              "authors": [
+                  "Jerome Preisler",
+                  "Steve Pieczenik",
+                  "Tom Clancy"
+              ],
+              "publisher": "Harlequin",
+              "publishedDate": "2020-05-26",
+              "description": "An all-new novella in the New York Times bestselling Net Force series, created by Tom Clancy and Steve Pieczenik and written by Jerome Preisler. In Munich, a renowned computer scientist dies. Then, his daughter vanishes. Both under mysterious circumstances. Kali Alcazar, a master hacker, wants to know why. As she delves deeper into the suspicious events, she spots something in the sky — a rare, advanced drone -- and realizes she’s a target herself. A group of mercenary assassins has been assembled with just one goal: to stop Kali from exposing a dark, world-changing secret. Stop her at any cost. They’re not the only ones who are hunting Kali. CIA manhunter Mike Carmody and his elite special ops team are hot on her trail. Their task—bring her to Washington as an internationally wanted cyber-criminal. But that simple mission suddenly becomes a lot more dangerous than they bargained for. In this thrilling novella, the lines blur between hunter and hunted in a battle for tech dominance whose explosive outcome ultimately may be decide the future of international security.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781488069031"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1488069034"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "1.2.2.0.preview.2",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=wQWsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=wQWsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=wQWsDwAAQBAJ&printsec=frontcover&dq=inauthorking&hl=&cd=9&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=wQWsDwAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wQWsDwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 2.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 2.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=wQWsDwAAQBAJ&rdid=book-wQWsDwAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 2990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 2990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/Net_Force_Eye_of_the_Drone-sample-epub.acsm?id=wQWsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=wQWsDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "An all-new novella in the New York Times bestselling Net Force series, created by Tom Clancy and Steve Pieczenik and written by Jerome Preisler."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "bdawywEACAAJ",
+          "etag": "Vn7cqqGESsQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/bdawywEACAAJ",
+          "volumeInfo": {
+              "title": "A Diary in the Age of Water",
+              "authors": [
+                  "Nina Munteanu"
+              ],
+              "publisher": "Inanna Poetry & Fiction Series",
+              "publishedDate": "2020-05-30",
+              "description": "Centuries from now, in a post-climate change dying boreal forest of what used to be northern Canada, Kyo, a young acolyte called to service in the Exodus, discovers a diary that may provide her with the answers to her yearning for Earth's past--to the Age of Water, when the \"Water Twins\" destroyed humanity in hatred--events that have plagued her nightly in dreams. Looking for answers to this holocaust--and disturbed by her macabre longing for connection to the Water Twins--Kyo is led to the diary of a limnologist from the time just prior to the destruction. This gritty memoir describes a near-future Toronto in the grips of severe water scarcity during a time when China owns the USA and the USA owns Canada. The diary spans a twenty-year period in the mid-twenty-first century of 33-year-old Lynna, a single mother who works in Toronto for CanadaCorp, an international utility that controls everything about water, and who witnesses disturbing events that she doesn't realize will soon lead to humanity's demise. A Diary in the Age of Water follows the climate-induced journey of Earth and humanity through four generations of women, each with a unique relationship to water. The novel explores identify and our concept of what is \"normal\"--as a nation and an individual--in a world that is rapidly and incomprehensibly changing.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1771337370"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781771337373"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 300,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=bdawywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=bdawywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=bdawywEACAAJ&dq=inauthorking&hl=&cd=10&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=bdawywEACAAJ&dq=inauthorking&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/A_Diary_in_the_Age_of_Water.html?hl=&id=bdawywEACAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=bdawywEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The novel explores identity and our concept of what is &quot;normal&quot;--as a nation and an individual--in a world that is rapidly and incomprehensibly changing."
+          }
+      }
+  ]
+}
