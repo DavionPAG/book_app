@@ -1,13 +1,59 @@
+html {
+  background-color: rgb(47, 47, 47);
+  width: 100%;
+}
+
 body {
+  width: 412px;
+  height: 732px;
   background-color: #bbbbbb;
 }
 
+form * {
+  margin: auto;
+}
+
+input, label, button {
+  display: block;
+  margin: auto;
+  padding: 10px;
+  width: 80%;
+}
+
+#titleForm input {
+  float: left;
+}
+
+#authorForm input {
+  float: left;
+}
+
+#titleForm, #authorForm {
+  background-color: white;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#search-button {
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  text-decoration: italic;
+  text-align: center;
+  margin: auto;
+
+  padding: 15px;
+}
+
 .bar {
-  background-color: #888888;
+  background-color: #44434307;
   color: white;
   text-align:center;
   padding: 8px;
   font-size: 16px; 
+  width: 80%;
+  margin: auto;
 }
 
 #best {
@@ -49,30 +95,15 @@ padding: 16px;
   width: 60%;
 }
 
-.selection-container {
-  background-color: black;
-  font-size: 15px;
-  color: white;
-  text-decoration: italic;
-  text-align: center;
-}
-
-.search-button {
-  background-color: white;
-  font-size: 15px;
-  color: black;
-  text-decoration: italic;
-  text-align: center;
-}
-.book-api-container {
-  background-color: rgb(211, 207, 207);
-  display: flex;
-  flex-direction: column;
-  margin: 30px;
-  padding: 32px;;
-  border: solid 2px #888888;
-  border-radius: 2px;
-}
 .title {
   align-items: center;
+}
+
+.description {
+  height: 80px;
+  overflow-y: auto;
+}
+
+.showPage * {
+  padding-bottom: 20px;
 }

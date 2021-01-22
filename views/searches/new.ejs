@@ -24,17 +24,17 @@
     <div class="book-api-container">
       <div class="selection-container">
     <form action="/show" method="POST">
-      <fieldset>
-        <input id="enter-text" type="text" placeholder="Enter a title or author" name="select" required>
-
+        <input id="text-input" type="text" placeholder="Enter a title or author" name="select" required>
+       
+        <div id="titleForm">
         <label for="title">Title</label>
         <input type="radio" name="select" value="title" required>
-
+      </div>
+      <div id="authorForm">   
         <label for="author">Author</label>
         <input type="radio" name="select" value="author" required>
-
+      </div>
         <button type="submit" id="search-button">Search the Google Books API</button>
-      </fieldset>
     </form>
       </div>
     </div>
