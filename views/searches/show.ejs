@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  
+
   <title>Search Results</title>
   <link href="https://fonts.googleapis.com/css2?family=Helevectiva:wght@200&display=swap" rel="stylesheet">
   <link href="/styles/reset.css" rel="stylesheet">
@@ -10,21 +11,30 @@
   <link href="/styles/modules.css" rel="stylesheet">
 </head>
 
-<body>
+<body class="showPage">
+
   <header id="best">Best Books!</header>
+
   <h1 id="bar">Search Results</h1>
-  
-    <% books.forEach(book => { %>
-      <div class="selection-container">
-        <div class="image-container">
-    <img src="<%= book.img_url %>" alt="">
-  </div>
-    <p class ="title"><%= book.title %></p>
-    <p class ="author"><%= book.authors %></p>
-    <article class="description"><%= book.desc %></article>
-  </div>
+
+  <% books.forEach(book=> { %>
+    <div class="selection-container">
+      <div class="image-container">
+        <img src="<%= book.img_url %>" alt="">
+      </div>
+      <p class="title">
+        <%= book.title %>
+      </p>
+      <p class="author">
+        <%= book.authors %>
+      </p>
+      <article class="description">
+        <%= book.desc %>
+      </article>
+    </div>
   <% }) %>
 
-  
+
 </body>
+
 </html>
