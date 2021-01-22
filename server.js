@@ -3,20 +3,44 @@
 require('dotenv').config();
 const express = require('express');
 const superagent = require('superagent');
-// const pg = require('pg');
+const pg = require('pg');
 const { search } = require('superagent');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-// const client = new pg.Client(process.env.DATABASE_URL);
+
+// Create my database connection
+const client = new pg.Client(process.env.DATABASE_URL);
+client.connect();
+client.on('error', err => console.error(err));
 
 app.use(express.static('./public'));
 app.use(express.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
 
-app.get('/', (req, res) => res.status(200).render('pages/index'));
+// app.get('/', (req, res) => res.status(200).render('pages/index'));
+
+app.get('/', getBooks);
+app.get('/number/:books', getNumber);
+
 app.get('/new', (req, res) => res.render('searches/new'));
 app.post('/show', searchHandler);
+
+// Function handlers
+function getBooks(req, res){
+  const SQL = 'SELECT * FROM books;';
+  return client.query(SQL)
+    .then(results => {
+      console.log(results.rows);
+      res.render('pages/index', {data: results.rows});
+      res.render('pages/index', {array: {data:results.rows}});
+    });
+}
+
+function getNumber(req, res){
+  console.log(req.params);
+}
+
 
 function searchHandler(req, res) {
   let key = process.env.GOOGLE_API_KEY;
@@ -59,3 +83,4 @@ function Search(data) {
 app.get('*', (req, res) => res.status(404).json('Not found'));
 
 app.listen(PORT, () => console.log(`Port => ${PORT}`));
+console.log('Connected to database >>>>', client.connectionParameters.database);
