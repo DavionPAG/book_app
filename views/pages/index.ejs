@@ -3,15 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="styles/styles.css">
-  <title>Book App</title>
+  <title>Books</title>
 </head>
 <body>
+  <section>
+    <h1>My Book Collection</h1>
   
-  <h1>Welcome to Our Book Search App</h1>
-   
-  <a href="new">Click Here To Searh For Books</a>
+    <% data.forEach(book =>{ %>
+    
+      <div class="image-container">
+        <img src="<%= book.image_url %>" alt="">
+      </div>
+      <div class="title"><%= book.title %></div>
+      <div class= "author"><%= book.author %></div>
+      <div class="description">
+        <%= book.description %>
+      </div>
+      <a href="/number/<%= book.id %>">collection size</a>
+      
+   <% }) %>
+   <p>This collection contains <%= data.length %> books</p>
+  </section>
+  
+  <!-- <a href="new">Click Here To Search For Books</a>
 
-  </form>
+  </form> -->
   
 </body>
 </html>
