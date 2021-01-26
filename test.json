@@ -1,0 +1,787 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 495,
+  "items": [
+      {
+          "kind": "books#volume",
+          "id": "_NMMrQKY1wsC",
+          "etag": "GEttbGcad3c",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/_NMMrQKY1wsC",
+          "volumeInfo": {
+              "title": "The Misbegotten King",
+              "authors": [
+                  "Anne Kelleher Bush"
+              ],
+              "publisher": "Aspect",
+              "publishedDate": "2009-09-26",
+              "description": "An ancient prophecy tells Amanander that he is the real heir to the throne of Meriga presently held by King Abelard. He uses his magic to probe the king's mind but kills him instead. All is set for a final conflict between him and his half-brother Roderic.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780759526686"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0759526680"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "pageCount": 368,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.1.2.0.preview.2",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=_NMMrQKY1wsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=_NMMrQKY1wsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=_NMMrQKY1wsC&printsec=frontcover&dq=intitle:king&hl=&cd=1&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=_NMMrQKY1wsC&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_NMMrQKY1wsC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 6.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 6.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=_NMMrQKY1wsC&rdid=book-_NMMrQKY1wsC&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 6990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 6990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/The_Misbegotten_King-sample-epub.acsm?id=_NMMrQKY1wsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=_NMMrQKY1wsC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "An ancient prophecy tells Amanander that he is the real heir to the throne of Meriga presently held by King Abelard."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "MWTkTOEcXUIC",
+          "etag": "yw09vk8NSAU",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/MWTkTOEcXUIC",
+          "volumeInfo": {
+              "title": "Martin Luther King Jr",
+              "authors": [
+                  "Christy Devillier"
+              ],
+              "publisher": "ABDO",
+              "publishedDate": "2001-09-01",
+              "description": "Describes the life and contributions of an individual who helped shape world history.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "161714228X"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781617142284"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "pageCount": 32,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Nonfiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.1.0.preview.2",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=MWTkTOEcXUIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=MWTkTOEcXUIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=MWTkTOEcXUIC&dq=intitle:king&hl=&cd=2&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=MWTkTOEcXUIC&dq=intitle:king&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Martin_Luther_King_Jr.html?hl=&id=MWTkTOEcXUIC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true
+              },
+              "pdf": {
+                  "isAvailable": true
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=MWTkTOEcXUIC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Describes the life and contributions of an individual who helped shape world history."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "Lk5pYk4E3G4C",
+          "etag": "7MlWLpgIMx0",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/Lk5pYk4E3G4C",
+          "volumeInfo": {
+              "title": "On the Field of Glory: An Historical Novel of the Time of King John Sobieski",
+              "authors": [
+                  "Henryk Sienkiewicz"
+              ],
+              "publisher": "Library of Alexandria",
+              "publishedDate": "1918",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781465522078"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1465522077"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "pageCount": 334,
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=Lk5pYk4E3G4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=Lk5pYk4E3G4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=Lk5pYk4E3G4C&printsec=frontcover&dq=intitle:king&hl=&cd=3&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=Lk5pYk4E3G4C&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Lk5pYk4E3G4C"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 4.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 4.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=Lk5pYk4E3G4C&rdid=book-Lk5pYk4E3G4C&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 4990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 4990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/On_the_Field_of_Glory_An_Historical_Nove-sample-epub.acsm?id=Lk5pYk4E3G4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=Lk5pYk4E3G4C&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The novel tells a story of a fictional young impoverished Polish nobleman and his love for a young aristocratic woman. The story is set during the reign of King John III Sobieski up to the eve of the Battle of Vienna."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "bDW3jKKnIeMC",
+          "etag": "l1mR6jr0Nvc",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/bDW3jKKnIeMC",
+          "volumeInfo": {
+              "title": "King Lear",
+              "authors": [
+                  "Jennifer Mulherin",
+                  "Abigail Frost"
+              ],
+              "publisher": "Cherrytree Books",
+              "publishedDate": "2001",
+              "description": "Reviews the story of the classic Shakespeare play with historical background and character sketches.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1842340468"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781842340462"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 31,
+              "printType": "BOOK",
+              "categories": [
+                  "Juvenile Nonfiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=bDW3jKKnIeMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=bDW3jKKnIeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=bDW3jKKnIeMC&printsec=frontcover&dq=intitle:king&hl=&cd=4&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=bDW3jKKnIeMC&dq=intitle:king&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/King_Lear.html?hl=&id=bDW3jKKnIeMC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=bDW3jKKnIeMC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Reviews the story of the classic Shakespeare play with historical background and character sketches."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "mcyrcD68xegC",
+          "etag": "CIN/NgP5XEo",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/mcyrcD68xegC",
+          "volumeInfo": {
+              "title": "The New Testament of the King James Bible: Letters of Paul",
+              "subtitle": "Easyread Super Large 18pt Edition",
+              "authors": [
+                  "Readhowyouwant Foundation Library"
+              ],
+              "publisher": "ReadHowYouWant.com",
+              "publishedDate": "2008-07-31",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781427052186"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1427052182"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 236,
+              "printType": "BOOK",
+              "categories": [
+                  "Bibles"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=mcyrcD68xegC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=mcyrcD68xegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=mcyrcD68xegC&printsec=frontcover&dq=intitle:king&hl=&cd=5&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=mcyrcD68xegC&dq=intitle:king&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/The_New_Testament_of_the_King_James_Bibl.html?hl=&id=mcyrcD68xegC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=mcyrcD68xegC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "JpWgCAAAQBAJ",
+          "etag": "PvVSUtwQvf8",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/JpWgCAAAQBAJ",
+          "volumeInfo": {
+              "title": "King John",
+              "authors": [
+                  "William Shakespeare"
+              ],
+              "publisher": "1st World Publishing",
+              "publishedDate": "2005-10",
+              "description": "The Life and Death of King John / William Shakespeare.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781421813530"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "142181353X"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 96,
+              "printType": "BOOK",
+              "categories": [
+                  "Drama"
+              ],
+              "averageRating": 3.5,
+              "ratingsCount": 6,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.1.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=JpWgCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=JpWgCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=JpWgCAAAQBAJ&printsec=frontcover&dq=intitle:king&hl=&cd=6&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=JpWgCAAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JpWgCAAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 0.99,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 0.99,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=JpWgCAAAQBAJ&rdid=book-JpWgCAAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 990000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 990000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/King_John-sample-pdf.acsm?id=JpWgCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=JpWgCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "KING JOHN."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "nEA4AAAAIAAJ",
+          "etag": "CmyrKXPjdeI",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/nEA4AAAAIAAJ",
+          "volumeInfo": {
+              "title": "King Arthur",
+              "publisher": "CUP Archive",
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=nEA4AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=nEA4AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=nEA4AAAAIAAJ&printsec=frontcover&dq=intitle:king&hl=&cd=7&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=nEA4AAAAIAAJ&dq=intitle:king&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/King_Arthur.html?hl=&id=nEA4AAAAIAAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=nEA4AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "A11SDwAAQBAJ",
+          "etag": "zOVFhPf1ob4",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/A11SDwAAQBAJ",
+          "volumeInfo": {
+              "title": "A Connecticut Yankee in King Arthur's Court",
+              "authors": [
+                  "Twain M."
+              ],
+              "publisher": "Рипол Классик",
+              "publishedDate": "1900",
+              "description": "Twain's time travel tale takes you back to the time of King Authur and the Knights of the Round Table. Unlike most glamorous takes on the old tale, Twain paints a picture of absurdity, superstition, and human misery. The honor culture of brave knights and fair maidens is revealed to be a place of incredible ignorance, extreme poverty, and shameful inequality. The narrator of the book, Hank, finds himself unexplainably in sixth century England, where he quickly asserts himself as a magician by utilizing his knowledge of science and history. Fred is a remarkably competent man is able to begin a transformation of the realm into a more friendly and advanced place. Industry, politics, and universal suffrage are his aims, and he makes rapid progress in all three. The humor in the book centers around Hank outwitting the inhabitants of the past, especially Merlin.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9785521059218"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "5521059210"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 433,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "averageRating": 3,
+              "ratingsCount": 41,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=A11SDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=A11SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=A11SDwAAQBAJ&printsec=frontcover&dq=intitle:king&hl=&cd=8&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=A11SDwAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A11SDwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 2.7,
+                  "currencyCode": "USD"
+              },
+              "retailPrice": {
+                  "amount": 2.7,
+                  "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=A11SDwAAQBAJ&rdid=book-A11SDwAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 2700000,
+                          "currencyCode": "USD"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 2700000,
+                          "currencyCode": "USD"
+                      },
+                      "giftable": true
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/A_Connecticut_Yankee_in_King_Arthur_s_Co-sample-pdf.acsm?id=A11SDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=A11SDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Industry, politics, and universal suffrage are his aims, and he makes rapid progress in all three. The humor in the book centers around Hank outwitting the inhabitants of the past, especially Merlin."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "_oIyAgAAQBAJ",
+          "etag": "pKuyVes67q4",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/_oIyAgAAQBAJ",
+          "volumeInfo": {
+              "title": "King Of The Golden Sun: Tokyo Nights",
+              "authors": [
+                  "Cody R Burns"
+              ],
+              "publisher": "Lulu.com",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780557141852"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0557141850"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=_oIyAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=_oIyAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=_oIyAgAAQBAJ&printsec=frontcover&dq=intitle:king&hl=&cd=9&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=_oIyAgAAQBAJ&dq=intitle:king&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/King_Of_The_Golden_Sun_Tokyo_Nights.html?hl=&id=_oIyAgAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=_oIyAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "AKNbfGIt_BYC",
+          "etag": "ic8mA9hS2g8",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/AKNbfGIt_BYC",
+          "volumeInfo": {
+              "title": "King",
+              "authors": [
+                  "Tanya Chapman"
+              ],
+              "publisher": "Coach House Books",
+              "publishedDate": "2006",
+              "description": "Hoping to erase her unhappy old life, Hazel jumps in her beat-up old car and speeds away. When she pulls up to the Evening and Morning Star Trailer Park, where nothing turns into even more of nothing, she decides it just might be the new life she's looking for. At the centre of this new life is King, a motorcycle-riding, hard-drinking, guitar-playing kind of guy. Hazel loves him to death. He spends his days fixing cars, while Hazel spends hers working at the town’s thrift shop. Evenings they spend with Spiney and Sissy, playing cards or drinking at Old Joe’s. It’s a clear kind of life, pure as water in the old quarry. As Hazel settles into the trailer park, she begins to settle into her new life too. She covers the trailer’s yard with wildflowers. She makes new friends, like Egbert (Egg), who helps her create elaborate tableaux in the thrift-shop window. She may even learn how to cook. But when King’s repeated brushes with the law bring him a spell in jail, things begin, slowly and surely, to unravel. Maybe Hazel hasn’t outrun herself after all, maybe year-round Christmas lights and thrift-shop glamour can’t outshine honesty, and maybe Hazel can’t make her world perfect by willing it so. Fun and sad and true, King feels like a slumber party: just you and your best friend in sleeping bags whispering through the long night. And when you wake up in the morning, you’ll blink, shake your head, and for a second, just a second, the world will seem like a more magical place.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1552451739"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781552451731"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 194,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.3.0.preview.3",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=AKNbfGIt_BYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=AKNbfGIt_BYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=AKNbfGIt_BYC&printsec=frontcover&dq=intitle:king&hl=&cd=10&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=AKNbfGIt_BYC&dq=intitle:king&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/King.html?hl=&id=AKNbfGIt_BYC"
+          },
+          "saleInfo": {
+              "country": "US",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true
+              },
+              "pdf": {
+                  "isAvailable": true
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=AKNbfGIt_BYC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "She may even learn how to cook. But when King&#39;s repeated brushes with the law bring him a spell in jail, things begin, slowly and surely, to unravel."
+          }
+      }
+  ]
+}

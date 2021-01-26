@@ -2,30 +2,34 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="styles/styles.css">
+  <link rel="stylesheet" href="/styles.css">
   <title>Books</title>
 </head>
 <body>
   <section>
+
+    <a href="new">New Search</a>
+
     <h1>My Book Collection</h1>
   
-    <% data.forEach(book =>{ %>
-    
+    <% data.forEach(book => { %>
+  
+      <div class="title"><%= book.title %></div>
+      <div class= "author"><%= book.author %></div>
       <div class="image-container">
         <img src="<%= book.image_url %>" alt="">
       </div>
-      <div class="title"><%= book.title %></div>
-      <div class= "author"><%= book.author %></div>
       <div class="description">
         <%= book.description %>
       </div>
-      <a href="/number/<%= book.id %>">collection size</a>
+
+      <a href="show/<%= book.id %>">View detail</a>
       
    <% }) %>
-   <p>This collection contains <%= data.length %> books</p>
+   <p>Collection Qty => <%= data.length %> books</p>
   </section>
   
-  <a href="new">Click Here To Search For Books</a>
+  
 
   </form>
   
