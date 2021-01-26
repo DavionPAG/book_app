@@ -19,18 +19,23 @@
 
   <% books.forEach(book=> { %>
     <div class="selection-container">
-      <div class="image-container">
+      
+      <form action="/books" method="POST">
+
         <img src="<%= book.img_url %>" alt="">
-      </div>
-      <p class="title">
-        <%= book.title %>
-      </p>
-      <p class="author">
-        <%= book.authors %>
-      </p>
-      <article class="description">
-        <%= book.desc %>
-      </article>
+        <p > <%= book.title %> </p>
+        <p> <%= book.authors %> </p>
+        <article> <%= book.desc %> </article>
+
+        <input type="hidden" name="author" value="<%= book.authors %>" >
+        <input type="hidden" name="title" value="<%= book.title %>" >
+        <input type="hidden" name="img" value="<%= book.img_url %>" >
+        <input type="hidden" name="description" value="<%= book.desc %>" >
+        <input type="hidden" name="isbn" value="<%= book.isbn %>" >
+        <input type="hidden" name="bookshelf" value="<%= book.bookshelf %>">
+
+        <button type="submit">Save</button>
+      </form>
     </div>
   <% }) %>
 

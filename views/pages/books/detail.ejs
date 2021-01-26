@@ -1,0 +1,21 @@
+<section>
+
+
+  <h3> Title: <%= data.title %>
+  </h3>
+  <p> Author: <%= data.author %>
+  </p>
+  <img src="<%= data.image_url %>" alt="">
+  <article> Discreption: <%= data.description %>
+  </article>
+  <p> Category: <%= data.bookshelf%>
+  </p>
+  <p> ISBN: <%= data.isbn%>
+  </p>
+
+  <%- include('edit') %>
+
+    <button type="submit" form="updateForm">Update Details
+    </button>
+    <button type="button">Delete Book</button>
+</section>
